@@ -12,7 +12,7 @@
 
 <div align="center">
   <strong>
-    Backend Focused Developer | React & Django Specialist |<br>
+    Backend Developer | React & Django Specialist |<br>
     Backend-Focused Engineer | Building Secure & Scalable REST APIs with PostgreSQL
   </strong>
 </div>
